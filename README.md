@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # Svvaap
 
 **About SVVAAP Infotech**
