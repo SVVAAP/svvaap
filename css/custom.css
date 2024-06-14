@@ -1335,3 +1335,18 @@ i {
       margin-right: 0px; }
     #featureSection .col-lg-7 .img-box .img02 {
       width: 90%; } }
+ /* Add your custom styles here */
+ .social-icons {
+  display: flex;
+  gap: 15px;
+  margin-top: 10px;
+  margin-left:20px ;
+}
+.social-icons a {
+  color: #555;
+  font-size: 20px;
+  transition: color 0.3s;
+}
+.social-icons a:hover {
+  color: #000;
+}
