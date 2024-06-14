@@ -9,6 +9,9 @@ Welcome to SVVAAP Infotech, your trusted partner in cutting-edge software soluti
 
 Srujan, our visionary CEO and founder, laid the foundation of SVVAAP Infotech with a deep passion for technology and a commitment to delivering outstanding results. With a wealth of experience in the software industry, Srujan brings expertise, creativity, and a customer-centric approach to every project we undertake.
 
+**Our partner & app dev - anup nayak**
+
+
 **Our Mission**
 
 At SVVAAP Infotech, our mission is to empower businesses and individuals with the latest technological advancements. We strive to transform ideas into reality by crafting innovative software solutions that drive success. Our team of dedicated professionals works tirelessly to stay at the forefront of technology, ensuring that our clients always receive the best solutions for their unique needs.
