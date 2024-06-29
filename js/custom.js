@@ -57,7 +57,7 @@ $(document).ready(function() {
 
 
    $(".counter").counterUp({
-      delay: 10,
+      delay: 50,
       time: 2000
    });
 

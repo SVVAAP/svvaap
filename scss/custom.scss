@@ -380,7 +380,8 @@ i {
    position: relative;
    margin-bottom: 100px;
    .slider-box {
-      background: url(../img/home-bg.jpg);
+      // background: url(../img/home-bg.jpg);
+      background-color: #000;
       background-size: cover;
       background-position: center top;
       height: 100vh;
@@ -421,7 +422,8 @@ i {
       background-position: right top;
    }
    .slider-box2 {
-      background: url(../img/home-bg01.jpg);
+      // background: url(../img/home-bg01.jpg);
+      background-color: #000;
       background-size: cover;
       background-position: center center;
    }
@@ -1739,10 +1741,12 @@ i {
 // PAGE HEADER
 // ----------------------------------------
 #pageHeader {
-   background: url(../img/home-bg.jpg);
+   // background: url(../img/home-bg.jpg);
+   background-color: #000;
    background-size: cover;
    background-position: center top;
    margin-bottom: 100px;
+   font-size: medium;
    .overlay {
       background: rgba(34, 34, 34, .8);
       padding: 180px 0 80px 0;
