@@ -1,46 +1,70 @@
+# Getting Started with Create React App
 
-# Svvaap
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-**About SVVAAP Infotech**
+## Available Scripts
 
-Welcome to SVVAAP Infotech, your trusted partner in cutting-edge software solutions. We are a dynamic and innovative software company dedicated to providing exceptional web, app, and AI development services. Our journey began with a vision to revolutionize the digital landscape, and we have been relentlessly pursuing excellence ever since.
+In the project directory, you can run:
 
-**Our Founder - Srujan**
+### `npm start`
 
-Srujan, our visionary CEO and founder, laid the foundation of SVVAAP Infotech with a deep passion for technology and a commitment to delivering outstanding results. With a wealth of experience in the software industry, Srujan brings expertise, creativity, and a customer-centric approach to every project we undertake.
+Runs the app in the development mode.\
+Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
-**Our partner & app dev - anup nayak**
+The page will reload when you make changes.\
+You may also see any lint errors in the console.
 
+### `npm test`
 
-**Our Mission**
+Launches the test runner in the interactive watch mode.\
+See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
 
-At SVVAAP Infotech, our mission is to empower businesses and individuals with the latest technological advancements. We strive to transform ideas into reality by crafting innovative software solutions that drive success. Our team of dedicated professionals works tirelessly to stay at the forefront of technology, ensuring that our clients always receive the best solutions for their unique needs.
+### `npm run build`
 
-**Our Services**
+Builds the app for production to the `build` folder.\
+It correctly bundles React in production mode and optimizes the build for the best performance.
 
-1. **Web Development**: We specialize in creating responsive, user-friendly websites that captivate audiences and drive engagement. From e-commerce platforms to corporate websites, our web development expertise spans across various industries.
+The build is minified and the filenames include the hashes.\
+Your app is ready to be deployed!
 
-2. **App Development**: Mobile apps are the cornerstone of modern businesses. SVVAAP Infotech crafts seamless, feature-rich mobile applications for both Android and iOS platforms, ensuring that your business is accessible to a broader audience.
+See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
-3. **AI Development**: Embrace the power of Artificial Intelligence with SVVAAP Infotech. Our AI development services include machine learning, natural language processing, and computer vision, enabling businesses to harness the potential of AI to enhance operations and customer experiences.
+### `npm run eject`
 
-**Why Choose SVVAAP Infotech?**
+**Note: this is a one-way operation. Once you `eject`, you can't go back!**
 
-1. **Expertise**: Our team consists of highly skilled and experienced professionals who are passionate about technology and innovation.
+If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
 
-2. **Custom Solutions**: We understand that every project is unique. We tailor our services to meet your specific requirements, ensuring that the final product exceeds your expectations.
+Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
 
-3. **Cutting-edge Technology**: We stay up-to-date with the latest trends and technologies, guaranteeing that your project benefits from the best tools available.
+You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
 
-4. **Client-Centric Approach**: We prioritize open communication and collaboration with our clients. Your input is invaluable, and we work closely with you every step of the way.
+## Learn More
 
-5. **Timely Delivery**: We are committed to delivering projects on time without compromising on quality.
+You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
 
-**Contact Us**
+To learn React, check out the [React documentation](https://reactjs.org/).
 
-For more information about SVVAAP Infotech and our services, please contact us at:
+### Code Splitting
 
-- Email: [workwithsvvaap@gmail.com](mailto:workwithsvvaap@gmail.com)
-- Phone: [+917899535703](tel:+917899535703)
+This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
 
-Let SVVAAP Infotech be your technology partner on your journey to success. Together, we can turn your vision into reality.
+### Analyzing the Bundle Size
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+
+### Making a Progressive Web App
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+
+### Advanced Configuration
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+
+### Deployment
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
+
+### `npm run build` fails to minify
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
